@@ -1,0 +1,8 @@
+Pedido - Maria Perez
+  Cantidad  Producto      Precio uni
+----------  ----------  ------------
+         1  Reloj                300
+         1  Cadena                50
+         2  Bolso                150
+         2  Blusa                130
+----------------------- TOTAL: 910

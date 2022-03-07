@@ -1,0 +1,7 @@
+Pedido - Alejandra Luna
+  Cantidad  Producto      Precio uni
+----------  ----------  ------------
+         3  Vestido              230
+         1  Pantalon             240
+         1  Bolso                150
+----------------------- TOTAL: 1080

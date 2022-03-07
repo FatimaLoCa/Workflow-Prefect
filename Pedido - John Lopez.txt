@@ -1,0 +1,7 @@
+Pedido - John Lopez
+  Cantidad  Producto      Precio uni
+----------  ----------  ------------
+         3  Pantalon             240
+         1  Cinturon             100
+         2  Cartera              120
+----------------------- TOTAL: 1060

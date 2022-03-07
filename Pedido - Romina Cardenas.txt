@@ -1,0 +1,7 @@
+Pedido - Romina Cardenas
+  Cantidad  Producto      Precio uni
+----------  ----------  ------------
+         2  Reloj                300
+         1  Cartera              120
+         2  Vestido              230
+----------------------- TOTAL: 1180
